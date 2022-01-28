@@ -1,37 +1,52 @@
-## Welcome to GitHub Pages
+---
+title: "職務経歴書"
+created_at: 2022-01-29
+---
 
-You can use the [editor on GitHub](https://github.com/hukurouo/resume/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## 個人データ
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- 氏名：西山裕樹 (Hiroki Nishiyama)
+- ID：`hukurouo`
+- Web：https://hukurouo.com/
 
-### Markdown
+## 技術スタック
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Ruby, Ruby on Rails
 
-```markdown
-Syntax highlighted code block
+業務で2年間使用。
 
-# Header 1
-## Header 2
-### Header 3
+### TypeScript, Next.js
 
-- Bulleted
-- List
+趣味でwebアプリを作る際に主に用いる。
 
-1. Numbered
-2. List
+### AWS, Docker, redis, MySQL
 
-**Bold** and _Italic_ and `Code` text
+業務で使用。基本的な読み書きができる。
 
-[Link](url) and ![Image](src)
-```
+## 職務経歴
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### アイティメディア株式会社 (2020/04 ~ 現在)
 
-### Jekyll Themes
+- 自社メディアの広告掲載管理システムを開発 (2021/03 ~ 現在)
+  - 技術選定、仕様検討、アプリ設計、コーディング、ドキュメント作成、AWS環境設計などを担当
+  - Rails(6系) + Google AdManager API での開発
+  - design doc 形式のドキュメント作成
+  - Docker による開発環境構築 (alpineを利用したイメージの軽量化)
+  - GitLab CI/CD を利用した自動テスト・自動デプロイフローの構築
+  - AzureADを利用したSAML認証によるSSOの実装
+  - Fluentdを使用したログルーティング機能の作成
+  - CloudFormation を使用したインフラ構成(Fargate環境)のコード化
+- 広告レポート自動出力システム (2020/12 ~ 2021/02)
+  - 仕様検討、設計、コーディング、運用を担当
+  - Google Apps Script + Google AdManager API での開発
+  - clasp を使用して、Google Apps Script を TypeScript で書ける環境を作成
+  - OAuth 2.0 による Google AdManager API の認証
+  - Webhookを利用した slackとの連携
+- 社内システムの保守運用 (2020/06 ~ 2020/11)
+  - 主にメール配信、会計システムの小さな改修などを担当
+  - Ruby on Rails(5系) での開発
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hukurouo/resume/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+## 業務外活動
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## 意欲・興味

@@ -11,11 +11,11 @@ created_at: 2022-01-29
 
 ## 技術スタック
 
-- `Ruby`, `Ruby on Rails`
+### `Ruby`, `Ruby on Rails`
   - 業務で2年間使用
-- `TypeScript`, `Next.js`
+### `TypeScript`, `Next.js`
   - 趣味でwebアプリを作る時に使用
-- `AWS`, `Docker`, `redis`, `MySQL`
+### `AWS`, `Docker`, `redis`, `MySQL`
   - 業務で使用。基本的な読み書きができる
 
 ## 職務経歴

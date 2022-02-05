@@ -32,7 +32,6 @@ created_at: 2022-01-29
   - 技術選定、仕様検討、アプリ設計、コーディング、ドキュメント作成、AWS環境設計などを担当
 - プロジェクト詳細
   - Rails(6系) + Google AdManager API での開発
-  - design doc 形式のドキュメント作成
   - Docker による開発環境構築 (alpineを利用したイメージの軽量化)
   - GitLab CI/CD を利用した自動テスト・自動デプロイフローの構築
   - AzureADを利用したSAML認証によるSSOの実装

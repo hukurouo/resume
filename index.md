@@ -1,30 +1,49 @@
 ---
 title: "職務経歴書"
 created_at: 2022-01-29
+updated_at: 2024-01-09
 ---
+
+# 職務経歴書
 
 ## 個人データ
 
 - 氏名：西山裕樹 (Hiroki Nishiyama)
-- ID：`hukurouo`
-- Web：[https://hukurouo.com](https://hukurouo.com)
+- ID：n1sym
+- Web：[https://n1sym.com](https://n1sym.com)
 
 ## 技術スタック
 
-### `Ruby`, `Ruby on Rails`
-- 業務で2年間使用。
+### Ruby, Ruby on Rails
+- 業務で3年半使用。
 
-### `TypeScript`, `Next.js`
+### TypeScript, Next.js
 - 趣味でwebアプリを作る時に使用。
 
-### `AWS`, `Docker`, `redis`, `MySQL`
-- 業務で使用。基本的な読み書きができる。
+### AWS, Docker, redis, MySQL
+- 業務で使用。基本的な構築、操作ができる。
 
 ## 職務経歴
 
-### アイティメディア株式会社 (2020/04 ~ 現在)
+### 個人ゲーム開発 (2023/08 ~ 現在)
 
-#### 自社メディアの広告掲載管理システムを開発 (2021/03 ~ 現在)
+- Unity, C# を用いてゲームを開発
+  - 2023年度の合計販売本数は 90,543 本
+
+### 株式会社ドワンゴ (2022/10 ~ 2023/08)
+
+#### 教育事業部のサーバーサイドエンジニアとして保守運用を担当
+- プロジェクト規模
+  - 平均 1~3 人チームでの開発
+- 業務の詳細
+  - Rails(5~6系)のアップデート作業
+  - マイクロサービスアーキテクチャの保守運用
+  - システムの専門的な問い合わせへのサポート対応
+  - その他、細かい不具合修正やリファクタリング作業など
+
+### アイティメディア株式会社 (2020/04 ~ 2022/09)
+
+#### 自社メディアの広告掲載管理システムを開発 (2021/03 ~ 2022/09)
 
 - プロジェクト規模
   - 開発2人, 広告運用チーム2~3人での開発
@@ -61,14 +80,14 @@ created_at: 2022-01-29
 
 ### 個人開発
 - 趣味で色々なwebアプリを作ったりしています
-- [https://github.com/hukurouo#works](https://github.com/hukurouo#works)
+- [https://github.com/n1sym](https://github.com/n1sym)
 
 ### 技術記事投稿
 - [https://zenn.dev/hukurouo](https://zenn.dev/hukurouo)
 - [https://tech.hukurouo.com](https://tech.hukurouo.com)
 
 ### 競技プログラミング
-- 2021年10月頃から本格的に参加しています
+- 2021年10月頃から2022年3月頃まで本格的に参加していました
 - [https://atcoder.jp/users/hukurouo](https://atcoder.jp/users/hukurouo)
 
 ## 意欲・興味
